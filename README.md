@@ -119,6 +119,15 @@ Yes, it's really all you need to get started as you can see in this live and int
 
 [![Edit Button](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/4j7m47vlm4)
 
+## Components with Bit
+
+[MUI component collection](https://bitsrc.io/mui-org/material-ui)
+
+<p align="center">
+  <a href="https://bitsrc.io/mui-org/material-ui"><img src="https://i.imagesup.co/images2/48295941e36e1f7e52d06195b936cbc89fc49c41.gif"></a>
+</p>
+
+
 ## Questions
 
 For *how-to* questions and other non-issues,
